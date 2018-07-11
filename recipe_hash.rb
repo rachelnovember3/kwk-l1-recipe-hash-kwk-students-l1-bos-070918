@@ -20,10 +20,10 @@ perfect_10_recipe = {
   ,:baking_powder => "1/2 tea spoon"
   ,:baking_soda => "1/4 tea spoon"
   ,:Xanthan_Gum => "1/2 tea spoon"
-  ,:slivered_almonds, lightly toasted - 1/4 cup
-  mini dark chocolate chips - 3/4 cup
-  olive oil - 1/2 cup
-  agave - 1/4 cup
+  ,:slivered_almonds => "1/4 cup"
+  ,:mini_dark_chocolate_chips => "3/4 cup"
+  ,:olive_oil => "1/2 cup"
+  ,:agave => "1/4 cup"
 }
 
 
