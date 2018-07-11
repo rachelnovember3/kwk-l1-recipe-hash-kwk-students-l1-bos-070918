@@ -14,13 +14,13 @@
 # All of the ingredients should be symbols and the amounts should be strings. Remember that symbols start with a colon and be sure to sub underscores for spaces.
 
 perfect_10_recipe = {
-  :almond_flour - 2 cups
-#  - gluten freewhole oats - 1 cup
-#  - kosher salt - 1/2 tea spoon
-#  - baking powder  - 1/2 tea spoon
-#  - baking soda - 1/4 tea spoon
-  Xanthan Gum - 1/2 tea spoon
-  slivered almonds, lightly toasted - 1/4 cup
+  :almond_flour => "2 cups"
+  ,:gluten_freewhole_oats => "1 cup"
+  ,:kosher_salt => "1/2 tea spoon"
+  ,:baking_powder => "1/2 tea spoon"
+  ,:baking_soda => "1/4 tea spoon"
+  ,:Xanthan_Gum => "1/2 tea spoon"
+  ,:slivered_almonds, lightly toasted - 1/4 cup
   mini dark chocolate chips - 3/4 cup
   olive oil - 1/2 cup
   agave - 1/4 cup
